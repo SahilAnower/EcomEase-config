@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+products:
   message: "Welcome to EcomEase products related Production APIs "
   contactDetails:
     name: "Sahil Anower - Developer"
