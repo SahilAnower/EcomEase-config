@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EcomEase products related QA APIs "
+  contactDetails:
+    name: "Sahil Anower - Developer"
+    email: "sahilanower2@gmail.com"
+  onCallSupport:
+    - (+91) 6289208895
